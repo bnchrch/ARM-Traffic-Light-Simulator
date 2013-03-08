@@ -1,0 +1,21 @@
+# Embest IDE Project File, Format Version 1.00
+# WARNING: DO NOT EDIT OR DELETE THIS PROJECT FILE!
+
+<BEGIN> PROJECT_NAME
+test1
+<END>
+
+<BEGIN> PROJECT_FILES
+
+	<BEGIN> GROUP="Project Source Files"
+		<PROP> GROUP_FILTER="*.c;*.cpp;*.cc;*.cxx;*.s;*.asm"
+
+	<END>
+
+	<BEGIN> GROUP="Project Header Files"
+		<PROP> GROUP_FILTER="*.h;*.inl;*.mac;*.inc"
+
+	<END>
+
+<END>
+
